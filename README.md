@@ -1,2 +1,2 @@
-# teaching-ironhack-dataptmad-2011
-class content for Data &amp; Analytics Part Time, November 2020 Edition
+# dataptmad-2011
+Repository with notebooks and materials for April 2020 part time bootcamp
